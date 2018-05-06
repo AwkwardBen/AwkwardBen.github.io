@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Ben Eustace
 permalink: /about/
 ---
 
-Some information about you!
+I've been working as a developer, tester and devops engineer for the last 3 years. My experince in the technology includes linux, kubernetes, coreos, docker, containerd, runc, kops, Jupyter, git, elasticsearch, artifactory, jenkins, Jira, radare2 and other open source technologies. My coding languages include C, javascript, Go, C++, Python, Rust, Java, Haskell and other smaller experimental outputs (e.g. coq and idris).
 
 ### More Information
 
